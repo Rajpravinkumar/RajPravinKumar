@@ -1,17 +1,23 @@
-<h1 align="center">Hi 👋, I'm RajPravinKumar</h1>
-<h3 align="center">Passionate Full Stack Developer | MERN Stack Enthusiast from India</h3>
+Hi, I'm Rajpravinkumar A.S. 👋
 
-- 🌱 I’m currently learning **Full-stack development | MERN stack**
+Data Engineer | Anaplan Integration & Automation | Anaplan Certified Level 2 Model Builder
 
-- 💬 Ask me about **HTML, CSS , JAVA SCRIPT ,REACT JS, NODE JS,MYSQL,MONGODB**
+What I Do
+🔌 Build automated inbound/outbound data pipelines between Anaplan and external systems using Anaplan Connect, REST API 2.0, CloudWorks, and flat files
+🗺️ Design data mappings, validation & reconciliation processes to catch missing records, duplicates, and mapping errors before they hit production
+🏗️ Support Data Hub / Hub-and-Spoke architecture and model-to-model integration across spoke planning models
+🔁 Manage Anaplan ALM (DEV → TEST → PROD) and troubleshoot integration failures
+🐍 Automate with Python, SQL, Informatica IICS, Apache Airflow, moving data through AWS S3 and GCP BigQuery
+🌐 Build full stack web applications using Django, React.js, Node.js, HTML/CSS/JS, and test APIs with Postman
+🛠️ Tech Stack
+💡 Skills
 
-- 📫 How to reach me **rajpravinkumaras@gmail.com**
+Anaplan Model Building Anaplan Integration & Automation Data Hub & Hub-Spoke Model-to-Model Integration Anaplan ALM Data Pipelines (ETL/ELT) Data Mapping & Validation Data Reconciliation Full Stack Development (FSD) REST API Development Workflow Automation
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+💻 Languages
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+Python SQL JavaScript HTML CSS
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajpravinkumar&show_icons=true&locale=en&layout=compact" alt="rajpravinkumar" /></p>
+🧰 Tools & Frameworks
+
+Anaplan Connect Anaplan API 2.0 CloudWorks Django React.js Node.js Informatica IICS Apache Airflow AWS S3 GCP BigQuery n8n Postman MongoDB Git
