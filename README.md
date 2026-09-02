@@ -1,42 +1,31 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Raj Pravin Kumar - Profile</title>
-    <link rel="stylesheet" href="style.css">
-</head>
+<h1 align="center">Hi 👋, I'm Raj Pravin Kumar A.S.</h1>
 
-<body>
+<h3 align="center">
+🚀 Anaplan Model Builder | Integration & Automation Engineer
+</h3>
 
-    <div class="profile-card">
+<br>
 
-        <h1>Hi, I'm Raj Pravin Kumar A.S. 👋</h1>
+<div align="center">
 
-        <div class="bio">
+🔷 <b>Connected Planning</b> • Anaplan Model Building • Data Hub • Hub & Spoke
 
-            <p>🚀 <strong>Anaplan Model Builder | Integration & Automation</strong></p>
+🔌 <b>Integration</b> • Anaplan Connect • REST API • CloudWorks • Model-to-Model
 
-            <p>📊 Building Connected Planning solutions using Models, Data Hubs & Hub-and-Spoke architecture</p>
+🐍 <b>Data Engineering</b> • Python • SQL • ETL/ELT • Apache Airflow
 
-            <p>🔌 Working with Anaplan Connect, REST APIs, CloudWorks & Model-to-Model Integration</p>
+☁️ <b>Cloud & Data</b> • AWS S3 • GCP BigQuery • Data Pipelines
 
-            <p>🐍 Developing data pipelines using Python, SQL, ETL/ELT & Apache Airflow</p>
+💻 <b>Full Stack Development</b> • React.js • Node.js • Django • MongoDB
 
-            <p>☁️ Working with AWS S3, GCP BigQuery & enterprise data platforms</p>
+🤖 <b>Automation & AI</b> • n8n • Webhooks • APIs • AI Agents
 
-            <p>💻 Full Stack Development skills in React.js, Node.js, Django & MongoDB</p>
+🛠️ <b>Data Quality</b> • Mapping • Validation • Reconciliation • Production Support
 
-            <p>🤖 Creating automation workflows using n8n, APIs, Webhooks & AI tools</p>
+</div>
 
-            <p>🛠️ Skilled in Data Mapping, Validation, Reconciliation & Production Support</p>
+<br>
 
-            <p>🎯 Focused on Anaplan, Integration, Automation, Data Engineering & AI</p>
-
-        </div>
-
-    </div>
-
-</body>
-</html>
-
+<p align="center">
+🎯 <b>Focused on building smart, scalable, and automated business solutions.</b>
+</p>
